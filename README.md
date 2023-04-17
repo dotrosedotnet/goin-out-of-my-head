@@ -28,7 +28,7 @@ usually feel that I need to do.
 
 What are they called "sane defaults"? ;)
 
-### Detaching melody from rhythm
+### Detaching melody/harmony from rhythm
 
 I wish that a rhythm could be assigned to a melody, and vice
 versa. This could make transcription so much easier
