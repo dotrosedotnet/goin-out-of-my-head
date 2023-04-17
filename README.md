@@ -38,4 +38,7 @@ Relatedly, considering how often rhythms are repeated with
 harmonic or chordal variation... well obviously this would
 be a really useful function.
 
-### 
+### Easily creating variations
+
+Maybe I should just be concatenating variables more. I guess
+that's a reasonable solution.
