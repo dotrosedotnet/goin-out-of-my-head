@@ -16,14 +16,15 @@ Here are some things that would be great:
 
 You can see in this document that a custom function had to
 be made to increase spacing between the header and the sheet
-music. This is such a foundational function that it should
-not need to be custom made.
+music. This is such a foundational concept in sheet music
+formatting that it should not need to be custom made.
 
 Relatedly, maybe my workflow needs refinement, but I do not
 find it easy to create reliably formatted leadsheets without
-a lot of tweaking. Like I said, it could be me, but I feel
-like the main purpose of Lilypond is not reflected in the
-amount of tweaking that I usually feel that I need to do.
+a lot of tweaking of unclear and unreliable settings. Like I
+said, it could be me, but I feel like the main purpose of
+Lilypond is not reflected in the amount of tweaking that I
+usually feel that I need to do.
 
 What are they called "sane defaults"? ;)
 
@@ -40,5 +41,12 @@ be a really useful function.
 
 ### Easily creating variations
 
+Considering how often a melodic phrase has a note or two
+changed, this is an attractive functionality.
+
 Maybe I should just be concatenating variables more. I guess
 that's a reasonable solution.
+
+But it feels like I should be able to set default
+rhythms/melodies for a theme and easily call the theme with
+arguments to create variations.
