@@ -1,2 +1,2 @@
-# goin-out-of-my-head
-An Example of Lilypond functionality
+# Goin' Out Of My Head
+## An Example of Lilypond functionality
