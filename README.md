@@ -27,4 +27,15 @@ amount of tweaking that I usually feel that I need to do.
 
 What are they called "sane defaults"? ;)
 
+### Detaching melody from rhythm
 
+I wish that a rhythm could be assigned to a melody, and vice
+versa. This could make transcription so much easier
+considering how often melodies are repeated with slight
+rhythmic variation.
+
+Relatedly, considering how often rhythms are repeated with
+harmonic or chordal variation... well obviously this would
+be a really useful function.
+
+### 
