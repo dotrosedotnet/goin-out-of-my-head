@@ -50,3 +50,22 @@ that's a reasonable solution.
 But it feels like I should be able to set default
 rhythms/melodies for a theme and easily call the theme with
 arguments to create variations.
+
+### What's to be done
+
+Honestly, I don't think I can leave lilypond. But I hope
+that a different language replaces it someday. I don't think
+it can become what I want, considering that their
+priorities seem to be very different than mine, and that
+they don't seem too keen on keeping up with modern modes of
+development and community management. They don't use github,
+and I don't think their community is willing to adopt a
+modern forum for communication, so development and community
+seems splintered across lots of different locations.
+
+So, I'll keep lilypond indefinitely. But I wish it were
+easier. I'll probably be adding Dorico to my toolbelt
+someday, but I still love lilypond because of it's text-only
+back-upable-ness.
+
+-Dot <3
